@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunus
 - 👀 I’m interested in Information Technology World
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL & JDBC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ==> www.linkedin.com/in/yunus-yıldız  &&& ynsyldz3494@gmail.com
 
